@@ -33,6 +33,9 @@ This program is especially useful for educators who teach using digital books or
 
 5. **Custom Background**:
    - Switch between black (`B`), white (`W`), or grey (`G`) backgrounds for better contrast.
+  
+6. **Exit**:
+   - Press "Esc" to exit
 
 
 # Acknowledgements
