@@ -39,5 +39,5 @@ This program is especially useful for educators who teach using digital books or
 
 
 # Acknowledgements
-Thanks to my electric circuit teacher for inspiring the creation of this program.
+Thanks to my electric circuits teacher for inspiring the creation of this program.
 
