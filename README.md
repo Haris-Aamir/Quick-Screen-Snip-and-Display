@@ -3,6 +3,8 @@ A lightweight program designed to assist teachers and presenters by quickly capt
 
 # [Download this application for Windows click here](https://github.com/Haris-XYZ/Quick-Screen-Snip-and-Display/releases/tag/v1.0.0).
 
+![image description](https://raw.githubusercontent.com/Haris-Aamir/Quick-Screen-Snip-and-Display/refs/heads/main/image.jpg)
+
 **Quick Screen Snip and Display** is a simple yet powerful tool designed to help teachers, presenters, and professionals who need to quickly capture and project specific portions of their screen. This program allows users to:
 
 - Capture a selected region of their screen.
